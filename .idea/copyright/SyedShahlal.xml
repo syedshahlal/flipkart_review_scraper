@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="allowReplaceRegexp" value="yes" />
+    <option name="notice" value="const originalComment = &quot;Copyright (c) 2021&quot;;&#10;const currentYear = new Date().getFullYear();&#10;const copyrightNotice = originalComment.replace(/\d+/, currentYear);&#10;&#10;console.log(copyrightNotice);&#10;" />
+    <option name="myName" value="SyedShahlal" />
+  </copyright>
+</component>
